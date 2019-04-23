@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 12760,
+  "expoServerNgrokUrl": "https://ge-s3s.tobilastik.stopwatch.exp.direct",
+  "packagerNgrokUrl": "https://packager.ge-s3s.tobilastik.stopwatch.exp.direct",
+  "ngrokPid": 1352,
+  "webpackServerPort": null
+}

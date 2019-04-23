@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Stopwatch",
+    "slug": "iphone-stopwatch",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.Stopwatch.iphone-stopwatch"
+    },
+
+    "android": {
+			"package": "com.Jcole.jcolequotesandlyricsquizandroid"
+    },
+    
+    "description": "This app contains over 200 J Cole Quotes and Lyrics Quiz, where you can test your knowledge on how well you know J Cole Songs"
+  }
+}

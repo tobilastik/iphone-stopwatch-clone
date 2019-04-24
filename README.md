@@ -1,1 +1,2 @@
-# quiz-app-expo
+# iPhone StopWatch clone
+# Built with React Native Expo
